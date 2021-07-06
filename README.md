@@ -1,5 +1,5 @@
 
-  # Readme Generator 
+  # readme generator 
 
   ## Table of Contents 
 
@@ -11,19 +11,19 @@
   6. [Questions](https://github.com/traciface/READMEGenerator#Questions)
   
   ## [Description](#Description)
-  Using this node module will help you write a Readme File
+  building readmes for your future programs
 
   ## [Installion](#Installion)
-  use npm i to install  the package.json
+  npm i to open the package.json
 
   ## [Usage](#Usage)
-  When needing a readme, you can use this file to easily create one using a blank template and your answers
+   building readmes
 
   ## [Licenses](#Licenses)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## [Contributors](#Contributors)
-   
+  nope 
 
   ## [Questions?](#Questions)
   Email me at traci.face@gmail.com or check out my [GitHub](https://github.com/traciface)
