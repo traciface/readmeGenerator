@@ -24,7 +24,7 @@ const promptUser = () => {
 		{
 			type: 'input',
 			name: 'description',
-			message: 'Please provide a description of your project.',
+			message: 'What is your project about?',
   },
 		{
 			type: 'input',
